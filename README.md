@@ -46,6 +46,6 @@ This is a simple command-line to-do list application implemented in Python. It a
 
 ## Author
 
-Adarsh babu
+Charith MS
 
-![Screenshot (253)](https://github.com/adarshhhr/To_Do_Application/assets/122380219/bbb9a674-ce8b-4e33-880b-be9a87ed504a)
+
